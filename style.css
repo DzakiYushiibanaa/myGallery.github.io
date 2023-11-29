@@ -1,0 +1,23 @@
+img{
+    border-radius: 5px;
+}
+
+#foto1:hover{
+    color: aqua;
+    transition: 1s;
+    transform: scale(1.2);
+}
+
+
+
+.P1{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    transition: 0.7s;
+}
+
+.P1:hover{
+    transform: scale(1.1);
+}
